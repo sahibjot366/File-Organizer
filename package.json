@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sahibjot366/File-Organizer/issues"
   },
-  "homepage": "https://github.com/sahibjot366/File-Organizer#readme"
+  "homepage": "https://github.com/sahibjot366/File-Organizer#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
 }
