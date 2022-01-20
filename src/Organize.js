@@ -88,9 +88,9 @@ const OrganizeFiles = (dirpath) => {
     }
   });
   if (count == 0) {
-    console.log("Nothing to sort or this directory is already sorted!");
+    console.log("Nothing to sort or this directory is already sorted!!");
   } else {
-    console.log("Done...");
+    console.log("Done!!");
   }
 };
 
